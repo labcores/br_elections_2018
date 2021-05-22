@@ -34,6 +34,11 @@ The dataset contains three files, as follows:
   - freq_hashtags: number of ocurrences for each hashtag in the collection.
   - freq_mentions: number of ocurrences for each mention in the collection.
 
+## Download
+* [br_elections_2018.tsv.bz2](https://drive.google.com/file/d/1DJprwtF52kV4z5ZEjDUo9sTS-nzNQ9ar/view?usp=sharing)
+* [br_elections_2018_classif.tsv.bz2](https://drive.google.com/file/d/1E0Lq2xUkIc09sWyriDeVSdw-dTzjZ1rG/view?usp=sharing)
+* [br_elections_2018_stats.json](https://drive.google.com/file/d/1-Jlg_GkqBcJ3y5LLBnCtv2R4LaKnovZP/view?usp=sharing)
+
 
 ## Publications
 * TBA
